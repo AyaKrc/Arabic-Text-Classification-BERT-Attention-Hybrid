@@ -1,4 +1,4 @@
-# Arabic-Text-Classification-BERT-Attention-Hybrid 🤖
+# Arabic-Text-Classification-BERT-Attention-Hybrid 
 
 ## 📄 Overview
 
