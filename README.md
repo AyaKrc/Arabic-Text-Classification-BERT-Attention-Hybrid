@@ -1,4 +1,4 @@
-> ⚠️ **PS:** If the `.ipynb` version doesn’t load properly, please check the PDF version instead. ⚠️
+ ⚠️ **PS:** If the `.ipynb` version doesn’t load properly, please check the PDF version instead. ⚠️
 
 
 # Arabic-Text-Classification-BERT-Attention-Hybrid 
